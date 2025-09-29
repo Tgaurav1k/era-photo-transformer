@@ -30,7 +30,7 @@ Installation
 
 Clone the repository
 
-git clone https://github.com/your-username/era-photo-transformer.git
+
 cd era-photo-transformer
 
 
@@ -138,3 +138,4 @@ Open a Pull Request
 If you face issues or have feature requests, please open an issue on GitHub.
 
 Made with ❤️ by Gaurav Kumar
+
